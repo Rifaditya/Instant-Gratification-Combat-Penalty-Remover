@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minCompatibilityLevel": "JAVA_25",
+  "package": "net.instantgratification.combatpenaltyremover.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "ItemStackMixin",
+    "ProjectileWeaponItemMixin",
+    "LivingEntityMixin",
+    "BlocksAttacksMixin",
+    "ChangeItemDamageMixin",
+    "PlayerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

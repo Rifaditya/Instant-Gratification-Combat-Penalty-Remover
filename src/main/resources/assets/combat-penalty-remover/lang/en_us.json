@@ -1,0 +1,23 @@
+{
+  "gamerule.category.combat-penalty-remover.combat_penalties": "Combat Penalties",
+  "gamerule.combat-penalty-remover.prevent_weapon_combat_damage": "Prevent Weapon Combat Damage",
+  "gamerule.combat-penalty-remover.prevent_weapon_combat_damage.description": "If active, weapons (Swords, Axes, Bows, Crossbows) will not lose durability when attacking enemies.",
+  "gamerule.combat-penalty-remover.prevent_armor_combat_damage": "Prevent Armor Combat Damage",
+  "gamerule.combat-penalty-remover.prevent_armor_combat_damage.description": "If active, armor will not lose durability from combat-related damage (melee/ranged attacks).",
+  "gamerule.combat-penalty-remover.prevent_shield_block_damage": "Prevent Shield Block Damage",
+  "gamerule.combat-penalty-remover.prevent_shield_block_damage.description": "If active, shields will not lose durability when successfully blocking attacks.",
+  "gamerule.combat-penalty-remover.prevent_armor_environmental_damage": "Prevent Armor Environmental Damage",
+  "gamerule.combat-penalty-remover.prevent_armor_environmental_damage.description": "If active, armor will not lose durability from environmental sources like fire, lava, or falls.",
+  "gamerule.combat-penalty-remover.treat_axes_as_weapons": "Treat Axes as Weapons",
+  "gamerule.combat-penalty-remover.treat_axes_as_weapons.description": "If active, axes and other tools will only lose 1 durability when used as a weapon, instead of the vanilla 2.",
+  "gamerule.combat-penalty-remover.prevent_spam_attack_durability_loss": "Prevent Spam Attack Durability Loss",
+  "gamerule.combat-penalty-remover.prevent_spam_attack_durability_loss.description": "If active, attacks with low charge (below 90%) won't consume durability. Fixes tools breaking fast when spamming.",
+  "gamerule.combat-penalty-remover.attack_speed_efficiency": "Attack Speed Efficiency",
+  "gamerule.combat-penalty-remover.attack_speed_efficiency.description": "Percentage multiplier for attack recharge speed. 100 is vanilla, 200 is twice as fast, 50 is half speed.",
+  "gamerule.combat-penalty-remover.prevent_weapon_pvp_damage": "Prevent Weapon PvP Damage",
+  "gamerule.combat-penalty-remover.prevent_weapon_pvp_damage.description": "If active, weapons won't lose durability when attacking other players.",
+  "gamerule.combat-penalty-remover.prevent_armor_pvp_damage": "Prevent Armor PvP Damage",
+  "gamerule.combat-penalty-remover.prevent_armor_pvp_damage.description": "If active, armor won't lose durability when damaged by other players.",
+
+  "modmenu.description.combat-penalty-remover": "Removes durability penalties for weapons, armor, and shields via GameRules."
+}
