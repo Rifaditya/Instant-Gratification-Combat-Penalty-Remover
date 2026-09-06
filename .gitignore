@@ -39,3 +39,11 @@ Archive Jar of all versions/
 marketing/
 Doc/Marketing/
 *hype_*
+
+# Platform Publisher API Token Security Vault
+*platform_tokens.json
+.agents/config/platform_tokens.json
+
+# Local Wiki Working Directories
+.wiki/
+Doc/.wiki/
