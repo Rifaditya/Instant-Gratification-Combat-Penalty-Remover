@@ -26,8 +26,8 @@ Eliminación del desgaste de durabilidad en combate para armas, armaduras y escu
 
 | Minecraft Version | Release Status | Fabric Loader | Documentation |
 | :--- | :--- | :--- | :--- |
-| **Minecraft 26.2** | Stable Anchor | `>=0.19.1` | [[👉 Minecraft 26.2 Suite|26.2-Home]] |
-| **Minecraft 26.3** | Snapshot Anchor | `>=0.19.3` | [[👉 Minecraft 26.3 Suite|26.3-Home]] |
+| **Minecraft 26.2** | Stable Anchor | `>=0.19.1` | [[👉 Minecraft 26.2 Suite|es_es-26.2-Home]] |
+| **Minecraft 26.3** | Snapshot Anchor | `>=0.19.3` | [[👉 Minecraft 26.3 Suite|es_es-26.3-Home]] |
 
 ---
 
