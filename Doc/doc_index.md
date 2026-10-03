@@ -1,4 +1,4 @@
-﻿# Combat Penalty Remover: Documentation Index
+# Combat Penalty Remover: Documentation Index
 
 Welcome to the central documentation hub for **Combat Penalty Remover**. This project follows the **Zenith Protocol v2.1** documentation standard.
 
@@ -22,7 +22,3 @@ Welcome to the central documentation hub for **Combat Penalty Remover**. This pr
 *   Explore the **[Media folder](Media/)**
 
 ---
-
----
-## 🧭 Navigation
-- [⬆ Back to Collection](../../philosophy.md)
