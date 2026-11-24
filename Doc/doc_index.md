@@ -2,7 +2,7 @@
 
 Welcome to the central documentation hub for **Combat Penalty Remover**. This project follows the **Zenith Protocol v2.1** documentation standard.
 
-## ?? Navigation
+## 📌 Navigation
 
 ### [Core Concepts](Concept/)
 *   **[Original Design Document](Concept/concept_combat_penalty_remover.md)**
@@ -18,7 +18,7 @@ Welcome to the central documentation hub for **Combat Penalty Remover**. This pr
 
 ---
 
-## ??? Media & Assets
+## 🖼️ Media & Assets
 *   Explore the **[Media folder](Media/)**
 
 ---
